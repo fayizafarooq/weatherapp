@@ -105,7 +105,6 @@ function displayError(message){
   card.style.display="flex";
   card.appendChild(errorDisplay);
 }
-console.log("Script loaded!");
 
 
 
